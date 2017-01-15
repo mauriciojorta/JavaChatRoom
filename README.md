@@ -7,8 +7,6 @@
   all the users.
   
  ##Screenshots 
- 
- ![startscreen](startscreen.png)
 ![Chat window 1](chatwindow1.png)
 ![Chat window 2](chatwindow2.png)
   
