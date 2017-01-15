@@ -22,12 +22,12 @@ public interface IChatWindow {
 	public void setVisible (boolean v);
 
 	/**
-	 * @return the btnEnviar
+	 * @return the btnSend
 	 */
 	public JButton getBtnSend();
 
 	/**
-	 * @return the textField_enviar
+	 * @return the textField_send
 	 */
 	public JTextField getTextField_send();
 
